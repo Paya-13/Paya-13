@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,50:FF6B35,100:FFD23F&height=220&section=header&text=Payal%20Vinod%20Jadhav&fontSize=48&fontColor=E8E8E8&fontAlignY=40&desc=Front-End%20Developer%20%7C%20Data%20%26%20Analytics%20%7C%20Problem%20Solver&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:10141A,50:7FA8C9,100:C9D6E3&height=220&section=header&text=Payal%20Vinod%20Jadhav&fontSize=48&fontColor=E8ECF1&fontAlignY=40&desc=Front-End%20Developer%20%7C%20Data%20%26%20Analytics%20%7C%20Problem%20Solver&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=const+role+%3D+%22Front-End+Developer%22%3B;const+focus+%3D+%5B%22DSA%22%2C+%22Power+BI%22%2C+%22Web+Dev%22%5D%3B;print(%22Turning+data+into+decisions%22)%3B;%24+status+--current+%22Learning+%2B+Building%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=7FA8C9&center=true&vCenter=true&width=650&lines=const+role+%3D+%22Front-End+Developer%22%3B;const+focus+%3D+%5B%22DSA%22%2C+%22Power+BI%22%2C+%22Web+Dev%22%5D%3B;print(%22Turning+data+into+decisions%22)%3B;%24+status+--current+%22Learning+%2B+Building%22" alt="Typing SVG" />
 
 </div>
 
@@ -14,9 +14,9 @@
 
 `$ whoami --degree --university --location`
 
-![Degree](https://img.shields.io/badge/Degree-B.Tech%20CSE-0D1117?style=flat-square&labelColor=FF6B35&color=0D1117)
-![University](https://img.shields.io/badge/University-Pimpri%20Chinchwad%20University-0D1117?style=flat-square&labelColor=FF6B35&color=0D1117)
-![Grad Year](https://img.shields.io/badge/Graduating-2028-0D1117?style=flat-square&labelColor=FF6B35&color=0D1117)
+![Degree](https://img.shields.io/badge/Degree-B.Tech%20CSE-10141A?style=flat-square&labelColor=7FA8C9&color=10141A)
+![University](https://img.shields.io/badge/University-Pimpri%20Chinchwad%20University-10141A?style=flat-square&labelColor=7FA8C9&color=10141A)
+![Grad Year](https://img.shields.io/badge/Graduating-2028-10141A?style=flat-square&labelColor=7FA8C9&color=10141A)
 
 </div>
 
@@ -24,17 +24,17 @@
 
 `$ connect --with-me`
 
-[![Email](https://img.shields.io/badge/Email-payaljadhav6678%40gmail.com-FF6B35?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:payaljadhav6678@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-paya--13-FF6B35?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/paya-13)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-FF6B35?style=for-the-badge&logo=hackerrank&logoColor=0D1117&labelColor=0D1117)](https://www.hackerrank.com/profile/payaljadhav6678)
+[![Email](https://img.shields.io/badge/Email-payaljadhav6678%40gmail.com-7FA8C9?style=for-the-badge&logo=gmail&logoColor=10141A&labelColor=10141A)](mailto:payaljadhav6678@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-paya--13-7FA8C9?style=for-the-badge&logo=github&logoColor=10141A&labelColor=10141A)](https://github.com/paya-13)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-7FA8C9?style=for-the-badge&logo=hackerrank&logoColor=10141A&labelColor=10141A)](https://www.hackerrank.com/profile/payaljadhav6678)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=paya-13&color=FF6B35&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/paya-13?color=FF6B35&style=flat-square&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/paya-13?color=FF6B35&style=flat-square&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=paya-13&color=7FA8C9&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/paya-13?color=7FA8C9&style=flat-square&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/paya-13?color=7FA8C9&style=flat-square&label=STARS)
 
 </div>
 
@@ -66,11 +66,11 @@ OPEN_TO   : Front-End Developer Internships | Data & Analytics Roles
 
 ### `$ cat specialties.txt`
 
-![Front-End](https://img.shields.io/badge/Front--End_Development-0D1117?style=flat-square&labelColor=FF6B35&color=0D1117)
-![Data Analytics](https://img.shields.io/badge/Data_%26_Analytics-0D1117?style=flat-square&labelColor=FF6B35&color=0D1117)
-![DSA](https://img.shields.io/badge/DSA_%26_Problem_Solving-0D1117?style=flat-square&labelColor=FF6B35&color=0D1117)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&labelColor=FF6B35&color=0D1117)
-![Excel](https://img.shields.io/badge/Excel-0D1117?style=flat-square&labelColor=FF6B35&color=0D1117)
+![Front-End](https://img.shields.io/badge/Front--End_Development-10141A?style=flat-square&labelColor=7FA8C9&color=10141A)
+![Data Analytics](https://img.shields.io/badge/Data_%26_Analytics-10141A?style=flat-square&labelColor=7FA8C9&color=10141A)
+![DSA](https://img.shields.io/badge/DSA_%26_Problem_Solving-10141A?style=flat-square&labelColor=7FA8C9&color=10141A)
+![SQL](https://img.shields.io/badge/SQL-10141A?style=flat-square&labelColor=7FA8C9&color=10141A)
+![Excel](https://img.shields.io/badge/Excel-10141A?style=flat-square&labelColor=7FA8C9&color=10141A)
 
 ---
 
@@ -160,7 +160,7 @@ A front-end e-commerce website built to practice and understand core front-end d
 
 ### `$ cat education.badge`
 
-[![Education](https://img.shields.io/badge/B.Tech_Computer_Science_Engineering-Pimpri_Chinchwad_University-0D1117?style=for-the-badge&labelColor=FF6B35&color=0D1117)](https://github.com/paya-13)
+[![Education](https://img.shields.io/badge/B.Tech_Computer_Science_Engineering-Pimpri_Chinchwad_University-10141A?style=for-the-badge&labelColor=7FA8C9&color=10141A)](https://github.com/paya-13)
 
 ---
 
@@ -176,7 +176,7 @@ A front-end e-commerce website built to practice and understand core front-end d
 
 ### `$ curl coding-profiles/`
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-payaljadhav6678-0D1117?style=for-the-badge&logo=hackerrank&logoColor=FF6B35&labelColor=0D1117)](https://www.hackerrank.com/profile/payaljadhav6678)
+[![HackerRank](https://img.shields.io/badge/HackerRank-payaljadhav6678-10141A?style=for-the-badge&logo=hackerrank&logoColor=7FA8C9&labelColor=10141A)](https://www.hackerrank.com/profile/payaljadhav6678)
 
 ---
 
@@ -184,10 +184,10 @@ A front-end e-commerce website built to practice and understand core front-end d
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=paya-13&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=E8E8E8&border_color=FF6B35"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paya-13&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=E8E8E8&border_color=FF6B35"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=paya-13&show_icons=true&hide_border=true&bg_color=10141A&title_color=7FA8C9&icon_color=7FA8C9&text_color=E8ECF1&border_color=7FA8C9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paya-13&layout=compact&hide_border=true&bg_color=10141A&title_color=7FA8C9&text_color=E8ECF1&border_color=7FA8C9"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=paya-13&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FFD23F&currStreakLabel=FF6B35&sideLabels=E8E8E8&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=E8E8E8"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=paya-13&hide_border=true&background=10141A&stroke=7FA8C9&ring=7FA8C9&fire=C9D6E3&currStreakLabel=7FA8C9&sideLabels=E8ECF1&currStreakNum=E8ECF1&sideNums=E8ECF1&dates=E8ECF1"/>
 
 </div>
 
@@ -197,7 +197,7 @@ A front-end e-commerce website built to practice and understand core front-end d
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=paya-13&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8&title.color=FFD23F&border.color=FF6B35&background.color=0D1117&icon.color=FF6B35)
+![Trophies](https://github-profile-trophy.vercel.app/?username=paya-13&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8&title.color=C9D6E3&border.color=7FA8C9&background.color=10141A&icon.color=7FA8C9)
 
 </div>
 
@@ -207,7 +207,7 @@ A front-end e-commerce website built to practice and understand core front-end d
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paya-13&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFD23F&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paya-13&bg_color=10141A&color=7FA8C9&line=7FA8C9&point=C9D6E3&area=true&hide_border=true)
 
 </div>
 
@@ -262,12 +262,12 @@ current_focus:
 
 ### `$ ./connect.sh --all`
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=FF6B35&labelColor=0D1117)](mailto:payaljadhav6678@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FF6B35&labelColor=0D1117)](https://github.com/paya-13)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=FF6B35&labelColor=0D1117)](https://www.hackerrank.com/profile/payaljadhav6678)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=7FA8C9&labelColor=10141A)](mailto:payaljadhav6678@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=7FA8C9&labelColor=10141A)](https://github.com/paya-13)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=7FA8C9&labelColor=10141A)](https://www.hackerrank.com/profile/payaljadhav6678)
 
 *"Data tells the story — front-end design makes people listen."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD23F,50:FF6B35,100:0D1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9D6E3,50:7FA8C9,100:10141A&height=120&section=footer" width="100%"/>
 
 </div>
